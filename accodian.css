@@ -27,7 +27,6 @@ a {
 .gallery li:hover {
   flex: 3;
 }
-
 .gallery li:nth-child(1) {
   background: url("../images/paint1.png") no-repeat center;
 }
